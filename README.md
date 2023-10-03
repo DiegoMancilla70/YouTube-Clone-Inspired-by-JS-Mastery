@@ -1,4 +1,5 @@
-YouTube Clone Application in React JS with Material UI and using API's Based on the youtube channel Js mastery 
+YouTube Clone Application <br/>
+React JS with Material UI and using API's 
+<br/>
 
-JS Mastery Channel
-[youtube]https://www.youtube.com/@javascriptmastery
+Based on youtube clone project by JS mastery
